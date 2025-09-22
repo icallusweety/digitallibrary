@@ -27,4 +27,4 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---------
 
-*<a href="webti/halaman1.html">halaman1</a>*
+*<a href="webti/halaman1.html">halaman1</a>* *<a href="webti/halaman1.html">halaman2</a>* *<a href="webti/halaman1.html">halaman3</a>* *<a href="webti/halaman1.html">halaman4</a>* *<a href="webti/halaman1.html">halaman5</a>* *<a href="webti/halaman1.html">halaman6</a>* *<a href="webti/halaman1.html">halaman7</a>*
