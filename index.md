@@ -27,4 +27,4 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---------
 
-*powered by GitHub Pages*
+*<a href="webti/halaman1.html">halaman1</a>*
