@@ -3,6 +3,7 @@ How make a digitL Library
 <body> 
 <h1><marquee direction="up"><font color="#1aff1a">halo ini halaman 1!!</marquee></font></h1> 
 <hr>
+<a href="../">index</a>
 <p><a href="halaman1.html">Halaman 1</a>|
 <a href="halaman2.html">Halaman 2</a>|
 <a href="halaman3.html">Halaman 3</a>|
